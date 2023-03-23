@@ -1,6 +1,8 @@
 ### HW4_annotation
 
 
-- 題目詳細說明請參考 HW4_annotation.ipynb
+- 說明請參考：
 
-- 作業檔名格式：**HW4_annotation_你的名字.ipynb**
+- 需繳交 2 個 csv：
+  1. relation-type-陳品且.csv
+  2. morpho-type-陳品且.csv
